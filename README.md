@@ -81,12 +81,12 @@
 <div align="center">
 
 <a href="https://github.com/a14784-Goncalo"><img src="https://img.shields.io/badge/GitHub-a14784--Goncalo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<!-- Descomenta e preenche o que quiseres mostrar:
-<a href="mailto:O_TEU_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/O_TEU_PERFIL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
--->
+<a href="mailto:a14784@oficina.pt"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/gonçaloserra"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+
 
 *"Primeiro resolve o problema. Depois escreve o código."*
+*"Just Code Nig"*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1f6feb,100:58a6ff&height=100&section=footer" alt="Rodapé" width="100%" />
 
